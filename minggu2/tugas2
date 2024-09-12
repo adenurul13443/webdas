@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Biodata Mahasiswa</title>
+    <style>
+        #customtable, #customtable tr, #customtable td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    
+}
+#td1{
+    background-color: cadetblue;
+}
+    </style>
+</head>
+
+
+<body style="background-color: seashell;">
+    <h1 align="center"><u>Biodata Mahasiswa</u></h1>
+    <center>
+    <table>
+        <tr>
+            <td rowspan="11" width="10px">
+                <img src="93794 100kb.jpg" width="150px" height="220px" border="4" alt="fotoku" style="border-color: white;">
+            </td>
+        </tr>
+        <tr>
+            <td>Nama</td>
+            <td> :</td>
+            <td> Ade Nurul Aisyah</td>
+        
+        </tr>
+        <tr>
+            <td>NIM</td>
+            <td> :</td>
+            <td> A11.2021.13443</td>
+        </tr>
+        <tr>
+            <td>Dosen Wali</td>
+            <td> :</td>
+            <td> BApak..</td>
+        </tr>
+        <tr>
+            <td>Status  </td>
+            <td> :</td>
+            <td> Aktif</td>
+        </tr>
+        <tr>
+            <td>Alamat Semarang</td>
+            <td> :</td>
+            <td> Jl.Imam Bondjol</td>
+        </tr>
+        <tr>
+            <td>Alamat Asal</td>
+            <td> :</td>
+            <td> Jl.R.E.Martadinata</td>
+        </tr>
+        <tr>
+            <td>No Hp</td>
+            <td> :</td>
+            <td> 089513613933</td>
+        </tr>
+        <tr>
+            <td>E-mail</td>
+            <td> :</td>
+            <td> 111202113443@mhs.dinus.ac.id</td>
+        </tr>
+        <tr>
+            <td>Agama</td>
+            <td> :</td>
+            <td> Islam</td>
+        </tr>
+    </center>
+    </table>
+    <br><br>
+
+    <table id="customtable">
+    
+        <caption>Jadwal KRS</caption>
+        <tr id="td1">
+            <td>No</td>
+            <td>Kode Mata Kuliah</td>
+            <td>Kelompok</td>
+            <td>Mata Kuliah</td>
+            <td>SKS</td>
+            <td>Status</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>A11.54101</td>
+            <td>A11.4104</td>
+            <td>KALKULUS 1</td>
+            <td>4</td>
+            <td>B</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>A11.54105</td>
+            <td>A11.4104</td>
+            <td>DASAR PEMROGRAMAN</td>
+            <td>4</td>
+            <td>B</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>A11.54302</td>
+            <td>A11.4104</td>
+            <td>MATEMATIKA DISKKRIT</td>
+            <td>3</td>
+            <td>B</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>A11.54314</td>
+            <td>A11.4104</td>
+            <td>PEMROGRAMAN BERBASIS WEB</td>
+            <td>2</td>
+            <td>B</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>A11.54403</td>
+            <td>A11.4104</td>
+            <td>ORGANISASI DAN ARSITEKTUR KOMPUTER</td>
+            <td>3</td>
+            <td>B</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>AF201704</td>
+            <td>A11.4104</td>
+            <td>DASAR DASAR KOMPUTASI</td>
+            <td>2</td>
+            <td>B</td>
+        </tr>
+
+    </table>
+    
+</body>
+</html>
